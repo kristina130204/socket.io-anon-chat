@@ -1,2 +1,1 @@
-# socket.io-anon-chat
-Anonim chat (user Node.js, socket.io)
+# Realtime anonimous chat with Node.js, socket.io and MongoDB
